@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b26f93c1.css",
+    "main.js": "/static/js/main.a3ceee61.js",
+    "static/media/ummhLogo.png": "/static/media/ummhLogo.770675f31a2a8370f150.png",
+    "index.html": "/index.html",
+    "main.b26f93c1.css.map": "/static/css/main.b26f93c1.css.map",
+    "main.a3ceee61.js.map": "/static/js/main.a3ceee61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b26f93c1.css",
+    "static/js/main.a3ceee61.js"
+  ]
+}
